@@ -4,6 +4,9 @@
 showreel
 
 ```markdown
+
+<img src="/WechatIMG3702.jpeg" width="100%">
+
 Feiyu Yao and Mu He
 
 colaman robot
