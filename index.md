@@ -3,7 +3,7 @@
 
 showreel
 
-<img src="/WechatIMG3702.jpeg" width="100%">
+<img src="/WechatIMG3702.jpeg" width="25%">
 
 ```markdown
 
