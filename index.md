@@ -4,10 +4,6 @@ Colaman
 
 <img src="/WechatIMG3702.jpeg" width="25%">
 
-```markdown
-
-
-
 
 Colaman performance
 https://www.youtube.com/watch?v=mq5dC6rTagw
@@ -23,25 +19,15 @@ Link: https://youtu.be/fSnzeLHGg4I
 Colaman Racing
 Link: https://youtu.be/dNEq5FEuYjI
 
-```
 
+
+OctopusBot
 
 <img src="/reobot.jpeg" width="25%">. <img src="/cheetah.jpg" width="25%">
+Link: https://www.youtube.com/watch?v=Rx6Fo3JLdqw
 
-
-Colaman performance
-https://www.youtube.com/watch?v=mq5dC6rTagw
-
-colaman robot
-Colaman dance
-Link: https://youtu.be/URlPCEFX3aA
-Link: https://youtu.be/URlPCEFX3aA
-
-Colaman move body
-Link: https://youtu.be/fSnzeLHGg4I
-
-Colaman Racing
-Link: https://youtu.be/dNEq5FEuYjI
+```markdown
+Using simple rules and physical simulation, we evolve a robot which can run with the gait like the fastest land animal cheetah. 
 
 ```
 
