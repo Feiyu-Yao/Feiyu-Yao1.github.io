@@ -1,6 +1,6 @@
 ## Welcome to Feiyu Yao's Pages
 
-#Colaman 
+# Colaman 
 
 <img src="/WechatIMG3702.jpeg" width="25%">
 
@@ -21,7 +21,7 @@ Link: https://youtu.be/dNEq5FEuYjI
 
 
 
-#OctopusBot
+# OctopusBot
 
 <img src="/reobot.jpeg" width="25%">. <img src="/cheetah.jpg" width="25%">
 
