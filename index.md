@@ -34,3 +34,6 @@ Using simple rules and physical simulation, we evolve a robot which can run with
 ```
 Link: https://youtu.be/enIMwjUJp9Y
 
+
+# Implement reinforcement learning on a dog 
+
