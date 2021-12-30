@@ -9,7 +9,7 @@ Colaman performance
 https://www.youtube.com/watch?v=mq5dC6rTagw
 
 
-https://user-images.githubusercontent.com/69249468/147724214-e623ac3f-1932-4006-a517-ebbca5cd3b1c.mp4
+
 
 colaman robot
 Colaman dance
@@ -28,10 +28,11 @@ Link: https://youtu.be/dNEq5FEuYjI
 
 <img src="/reobot.jpeg" width="25%">. <img src="/cheetah.jpg" width="25%">
 
+https://user-images.githubusercontent.com/69249468/147724214-e623ac3f-1932-4006-a517-ebbca5cd3b1c.mp4
 
 ```markdown
 Using simple rules and physical simulation, we evolve a robot which can run with the gait like the fastest land animal cheetah. 
 
 ```
-Link: https://www.youtube.com/watch?v=Rx6Fo3JLdqw
+Link: https://user-images.githubusercontent.com/69249468/147724214-e623ac3f-1932-4006-a517-ebbca5cd3b1c.mp4
 
