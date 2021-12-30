@@ -15,8 +15,6 @@ colaman robot
 Colaman dance
 Link: https://youtu.be/URlPCEFX3aA
 
-Link: https://youtu.be/URlPCEFX3aA
-
 Colaman move body
 Link: https://youtu.be/fSnzeLHGg4I
 
