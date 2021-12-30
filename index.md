@@ -37,3 +37,7 @@ Link: https://youtu.be/enIMwjUJp9Y
 
 # Implement reinforcement learning on a dog 
 
+<img src="/walk.png" width="25%">. <img src="/cheetah.jpg" width="25%">
+
+<img src="/save.png" width="25%">. <img src="/cheetah.jpg" width="25%">
+
