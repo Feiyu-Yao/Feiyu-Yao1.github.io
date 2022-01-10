@@ -37,6 +37,8 @@ Link: https://youtu.be/enIMwjUJp9Y
 
 # Implement reinforcement learning on a dog 
 
+The dog is controlled by a hierarchical control architecture. The upper part is a reinforcement learning structure which outputs the abstract command. The under part is a optimal control sturcture which implements the abstract command to the commands for the motors. 
+
 <img src="/walk.png" width="100%">
 
 <img src="/save.png" width="100%">
