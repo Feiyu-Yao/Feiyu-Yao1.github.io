@@ -32,6 +32,7 @@ K-means in transformed space
 
 ### Evolutionary Algorithm
 OctopusBot
+C++ and OpenGL
 
 <img src="/reobot.jpeg" width="10%">. <img src="/cheetah.jpg" width="10%">
 
