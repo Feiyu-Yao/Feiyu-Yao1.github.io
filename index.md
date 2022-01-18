@@ -9,9 +9,15 @@ Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolu
 
 
 
-##Project in Westlake University
+## Project in Westlake University
 1: Few-shot Domain Adaptation for IMU Denoising: With a paper in arxiv. Using Meta-learning and reference the DCNN structure when dealing with the sequence data.
+
+
+
+
 2: Visual language navigation (in processing): A task with visual information and language information. Try to deal with the bias in the task to improve the success rate for the agent. 
+
+
 
 
 
@@ -54,7 +60,7 @@ https://www.youtube.com/watch?v=mq5dC6rTagw
 
 Implement reinforcement learning on a quadruped robot 
 
-The dog is controlled by a hierarchical control architecture. The upper part is a reinforcement learning structure which outputs the abstract command. The under part is a optimal control sturcture which implements the abstract command to the commands for the motors. 
+The dog is controlled by a hierarchical control architecture. The upper part is a reinforcement learning structure (SAC) which outputs the abstract command. The under part is a optimal control sturcture which implements the abstract command to the commands for the motors. 
 
 <img src="/walk.png" width="100%">
 
