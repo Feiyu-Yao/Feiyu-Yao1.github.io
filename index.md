@@ -1,7 +1,8 @@
 ## Welcome to Feiyu Yao's Pages
 
 Feiyu Yao, Columbia University Student, concentrate in Robotics and Control
-Visiting Student in Westlake University 
+
+Research Assistant in Westlake University 
 
 GPA:4.165/4.33
 
