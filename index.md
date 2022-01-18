@@ -1,4 +1,4 @@
-## Welcome to Feiyu Yao's Pages
+# Welcome to Feiyu Yao's Pages
 
 Feiyu Yao, Columbia University Student, concentrate in Robotics and Control
 
@@ -23,14 +23,14 @@ Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolu
 
 ## Project in Columbia University:
 
-# Machince Learning:
+### Machince Learning:
 
 Spam Classification(Maximum Likelihood Estimation)
 MNIST Classification(Decision Tree)
 Kaggle competition about predicting the year of the song(Rank top 22% with LightGBM) https://www.kaggle.com/c/4771-sp21-regression/leaderboard
 K-means in transformed space
 
-# Evolutionary Algorithm
+### Evolutionary Algorithm
 OctopusBot
 
 <img src="/reobot.jpeg" width="10%">. <img src="/cheetah.jpg" width="10%">
@@ -42,7 +42,7 @@ Using simple rules and physical simulation, we evolve a robot which can run with
 ```
 Link: https://youtu.be/enIMwjUJp9Y
 
-# Robot Studio
+### Robot Studio
 Colaman 
 
 <img src="/WechatIMG3702.jpeg" width="10%">
@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=mq5dC6rTagw
 
 
 
-# Reinforcement Learning
+### Reinforcement Learning
 
 Implement reinforcement learning on a quadruped robot 
 
