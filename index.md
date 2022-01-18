@@ -21,7 +21,6 @@ Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolu
 
 
 
-
 ## Project in Columbia University:
 
 # Machince Learning:
