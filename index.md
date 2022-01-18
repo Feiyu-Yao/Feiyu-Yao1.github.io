@@ -4,7 +4,7 @@ Feiyu Yao, Columbia University Student, concentrate in Robotics and Control
 
 Research Assistant in Westlake University 
 
-GPA:4.165/4.33
+GPA:4.165/4
 
 Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolutionary Algorithm, Intro to robotics, Intro to control, Robot Studio.
 
