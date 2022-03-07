@@ -33,6 +33,18 @@ Kaggle competition about predicting the year of the song(Rank top 22% with Light
 
 K-means in transformed space
 
+
+
+### Robot Studio
+Colaman 
+
+<img src="/WechatIMG3702.jpeg" width="10%">
+
+
+Colaman performance
+https://www.youtube.com/watch?v=g9lacYcaEdc 
+
+
 ### Evolutionary Algorithm
 OctopusBot
 
@@ -48,14 +60,6 @@ Using simple rules and physical simulation, we evolve a robot which can run with
 ```
 Link: https://youtu.be/enIMwjUJp9Y
 
-### Robot Studio
-Colaman 
-
-<img src="/WechatIMG3702.jpeg" width="10%">
-
-
-Colaman performance
-https://www.youtube.com/watch?v=g9lacYcaEdc
 
 
 
