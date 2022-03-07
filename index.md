@@ -44,6 +44,8 @@ Colaman
 Link:
 https://www.youtube.com/watch?v=g9lacYcaEdc 
 
+[![Biped Robot](https://res.cloudinary.com/marcomontalbano/image/upload/v1646672844/video_to_markdown/images/youtube--g9lacYcaEdc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=g9lacYcaEdc "Biped Robot")
+
 
 ### Evolutionary Algorithm
 OctopusBot
