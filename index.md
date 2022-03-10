@@ -58,7 +58,6 @@ K-means in transformed space
 
 
 ### Robot Studio
-Colaman 
 
 <table border="0">
   <tr>
@@ -67,7 +66,7 @@ Colaman
       <p><b>With Cute appearance, controlled by Raspberry PI, it can achieve 12.5cm/s speed.</b></p>
     </td>
     <td width="25%">
-      <img src="/WechatIMG3702.jpeg" width="10%">
+      <img src="/WechatIMG3702.jpeg" width="30%">
     </td>
   </tr>
 </table>
@@ -80,19 +79,25 @@ Colaman
 
 
 ### Evolutionary Algorithm
-OctopusBot
 
 
-C++ and OpenGL
 
-<img src="/reobot.jpeg" width="10%">. <img src="/cheetah.jpg" width="10%">
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>OctopusBot</h1>
+      <p><b>With C++ and OpenGL, Using simple rules and physical simulation, we evolve a robot which can run with the gait like the fastest land animal cheetah. </b></p>
+    </td>
+    <td width="25%">
+      <img src="/reobot.jpeg" width="10%">. <img src="/cheetah.jpg" width="10%">
+    </td>
+  </tr>
+</table>
 
 
-```markdown
-Using simple rules and physical simulation, we evolve a robot which can run with the gait like the fastest land animal cheetah. 
 
-```
-Link: https://youtu.be/enIMwjUJp9Y
+
+
 
 [![Soft Robot](https://res.cloudinary.com/marcomontalbano/image/upload/v1646672990/video_to_markdown/images/youtube--Rx6Fo3JLdqw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Rx6Fo3JLdqw "Soft Robot")
 
