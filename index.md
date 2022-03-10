@@ -14,7 +14,7 @@
       <p><b>Columbia University Graduate Student and Research Assistant in Westlake University</b></p>
       <p><b>Major in Mechanical Engineering concentrate in Robotics and Control </b></p>
       <p><b>GPA:4.165/4</b></p>
-      <p><b>feiyu.yao@columbia.edu</b></p>
+      <p><b>Email: feiyu.yao@columbia.edu</b></p>
     </td>
     <td width="25%">
       <img src="/1605797078949.jpeg" width="100%">     
