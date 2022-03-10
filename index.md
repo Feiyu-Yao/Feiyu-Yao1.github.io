@@ -62,19 +62,17 @@ Colaman
     <td width="75%">
       <h1>Colaman</h1>
       <p><b>With Cute appearance, it can achieve 12.5cm/s speed.</b></p>
-      <p><b>Major in Mechanical Engineering concentrate in Robotics and Control </b></p>
-      <p><b>GPA:4.165/4</b></p>
-      <p><b>feiyu.yao@columbia.edu</b></p>
+      <img src="/WechatIMG3702.jpeg" width="10%">
     </td>
     <td width="25%">
-      <img src="/1605797078949.jpeg" width="100%">     
+      <p><b>[![Biped Robot](https://res.cloudinary.com/marcomontalbano/image/upload/v1646672844/video_to_markdown/images/youtube--g9lacYcaEdc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=g9lacYcaEdc "Biped Robot")</b></p>
     </td>
   </tr>
 </table>
 
 
 
-<img src="/WechatIMG3702.jpeg" width="10%">
+
 
 [![Biped Robot](https://res.cloudinary.com/marcomontalbano/image/upload/v1646672844/video_to_markdown/images/youtube--g9lacYcaEdc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=g9lacYcaEdc "Biped Robot")
 
