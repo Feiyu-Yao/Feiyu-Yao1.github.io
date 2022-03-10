@@ -61,11 +61,11 @@ K-means in transformed space
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="70%">
       <h1>Colaman</h1>
       <p><b>With Cute appearance, controlled by Raspberry PI, it can achieve 12.5cm/s speed.</b></p>
     </td>
-    <td width="25%">
+    <td width="30%">
       <img src="/WechatIMG3702.jpeg" width="50%">
     </td>
   </tr>
@@ -84,12 +84,12 @@ K-means in transformed space
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="70%">
       <h1>OctopusBot</h1>
       <p><b>With C++ and OpenGL, Using simple rules and physical simulation, we evolve a robot which can run with the gait like the fastest land animal cheetah. </b></p>
     </td>
-    <td width="25%">
-      <img src="/reobot.jpeg" width="50%">. <img src="/cheetah.jpg" width="50%">
+    <td width="30%">
+      <img src="/reobot.jpeg" width="50%"> <img src="/cheetah.jpg" width="50%">
     </td>
   </tr>
 </table>
