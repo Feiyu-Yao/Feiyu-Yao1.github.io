@@ -1,10 +1,28 @@
 # Welcome to Feiyu Yao's Pages
 
-Feiyu Yao, Columbia University Student, concentrate in Robotics and Control
 
-Research Assistant in Westlake University 
 
-GPA:4.165/4
+
+
+
+
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Feiyu Yao</h1>
+      <p><b>Columbia University Graduate Student and Research Assistant in Westlake University</b></p>
+      <p><b>Major in Mechanical Engineering concentrate in Robotics and Control </b></p>
+      <p><b>GPA:4.165/4</b></p>
+      <p><b>feiyu.yao@columbia.edu</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
+
 
 Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolutionary Algorithm, Intro to robotics, Intro to control, Robot Studio.
 
