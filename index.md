@@ -22,14 +22,15 @@
   </tr>
 </table>
 
+Research Interest: Artificial Intelligent, Intelligent Robots, Multi-modal tasks, , Navigation Planning. 
 
 
 Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolutionary Algorithm, Intro to robotics, Intro to control, Robot Studio.
 
 
 
-## Project in Westlake University
-1: Few-shot Domain Adaptation for IMU Denoising: With a paper in arxiv. Using Meta-learning and reference the DCNN structure when dealing with the sequence data.
+## Research Project
+1: Few-shot Domain Adaptation for IMU Denoising: Present a few-shot domain adaptation strategy and a few-shot domain adaption framework with embedding module, restructor module and generator module. They can effectively achieve accurate angular velocity error among multiple IMUs and robots without specially training the parameters for each of them. Verified on open dataset, car robot and quadruped robot. The generalization performance is better than the state of art methods.
 
 
 
@@ -39,7 +40,7 @@ Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolu
 
 
 
-## Project in Columbia University:
+## Course Project
 
 ### Machince Learning:
 
