@@ -33,6 +33,9 @@ Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolu
 1: Few-shot Domain Adaptation for IMU Denoising: Present a few-shot domain adaptation strategy and a few-shot domain adaption framework with embedding module, restructor module and generator module. They can effectively achieve accurate angular velocity error among multiple IMUs and robots without specially training the parameters for each of them. Verified on open dataset, car robot and quadruped robot. The generalization performance is better than the state of art methods.
 
 
+<img src="/1646925537653.jpg" width="25%">     
+
+
 
 
 2: Visual language navigation (in processing): A task with visual information and language information. Try to deal with the bias in the task to improve the success rate for the agent. 
@@ -61,11 +64,10 @@ Colaman
   <tr>
     <td width="75%">
       <h1>Colaman</h1>
-      <p><b>With Cute appearance, it can achieve 12.5cm/s speed.</b></p>
-      <img src="/WechatIMG3702.jpeg" width="10%">
+      <p><b>With Cute appearance, controlled by Raspberry PI, it can achieve 12.5cm/s speed.</b></p>
     </td>
     <td width="25%">
-      <p><b>[![Biped Robot](https://res.cloudinary.com/marcomontalbano/image/upload/v1646672844/video_to_markdown/images/youtube--g9lacYcaEdc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=g9lacYcaEdc "Biped Robot")</b></p>
+      <img src="/WechatIMG3702.jpeg" width="10%">
     </td>
   </tr>
 </table>
