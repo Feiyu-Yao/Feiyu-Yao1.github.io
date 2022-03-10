@@ -45,15 +45,6 @@ Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolu
 
 ## Course Project
 
-### Machince Learning:
-
-Spam Classification(Maximum Likelihood Estimation)
-
-MNIST Classification(Decision Tree)
-
-Kaggle competition about predicting the year of the song(Rank top 22% with LightGBM) https://www.kaggle.com/c/4771-sp21-regression/leaderboard
-
-K-means in transformed space
 
 
 
