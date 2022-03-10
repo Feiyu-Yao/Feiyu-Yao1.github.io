@@ -14,6 +14,8 @@
       <p><b>Columbia University Graduate Student and Research Assistant in Westlake University</b></p>
       <p><b>Major in Mechanical Engineering concentrate in Robotics and Control </b></p>
       <p><b>GPA:4.165/4</b></p>
+      <p><b>Research Interest: Artificial Intelligent, Intelligent Robots, Multi-modal tasks, , Navigation Planning. </b></p>
+      <p><b>Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolutionary Algorithm, Intro to robotics, Intro to control, Robot Studio.</b></p>
       <p><b>Email: feiyu.yao@columbia.edu</b></p>
     </td>
     <td width="25%">
@@ -22,10 +24,10 @@
   </tr>
 </table>
 
-Research Interest: Artificial Intelligent, Intelligent Robots, Multi-modal tasks, , Navigation Planning. 
 
 
-Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolutionary Algorithm, Intro to robotics, Intro to control, Robot Studio.
+
+
 
 
 
