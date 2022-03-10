@@ -15,8 +15,6 @@
       <p><b>Major: Mechanical Engineering </b></p>
       <p><b>Concentration: Robotics and Control </b></p>
       <p><b>GPA:4.165/4</b></p>
-      <p><b>Research Interest: Artificial Intelligent, Intelligent Robots, Multi-modal tasks, Navigation Planning. </b></p>
-      <p><b>Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolutionary Algorithm, Intro to robotics, Intro to control, Robot Studio.</b></p>
       <p><b>Email: feiyu.yao@columbia.edu</b></p>
     </td>
     <td width="25%">
@@ -33,6 +31,9 @@
 
 
 ## Research Project
+
+Research Interest: Artificial Intelligent, Intelligent Robots, Multi-modal tasks, Navigation Planning. 
+
 1: Few-shot Domain Adaptation for IMU Denoising: Present a few-shot domain adaptation strategy and a few-shot domain adaption framework with embedding module, restructor module and generator module. They can effectively achieve accurate angular velocity error among multiple IMUs and robots without specially training the parameters for each of them. Verified on open dataset, car robot and quadruped robot. The generalization performance is better than the state of art methods.
 
 
@@ -48,7 +49,7 @@
 
 ## Course Project
 
-
+Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolutionary Algorithm, Intro to robotics, Intro to control, Robot Studio.
 
 
 ### Robot Studio
