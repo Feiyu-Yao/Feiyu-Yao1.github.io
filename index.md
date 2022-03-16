@@ -42,7 +42,7 @@ Research Interest: Artificial Intelligent, Intelligent Robots, Multi-modal tasks
 
 
 
-2: Visual language navigation (in processing): A task with visual information and language information. Try to deal with the bias in the task to improve the success rate for the agent. 
+2: Visual language navigation (in processing): A task with visual information and language information. Given a instruct, the robot should move to the destination on its own. We are trying to deal with the whole task as subtarget navigation problems to improve the success rate for the agent. 
 
 
 
