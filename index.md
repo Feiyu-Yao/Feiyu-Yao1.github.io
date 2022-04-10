@@ -109,3 +109,8 @@ The dog is controlled by a hierarchical control architecture. The upper part is 
 
 <img src="/save.png" width="100%">
 
+### Deep Learning
+
+Vehicle Detection on haze pictures (My model performs the best)
+
+
