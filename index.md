@@ -46,6 +46,9 @@ Research Interest: Artificial Intelligent, Intelligent Robots, Multi-modal tasks
 
 
 
+3: Causal Inference for referring video object segmentation (in processing).
+
+
 
 ## Course Project
 
