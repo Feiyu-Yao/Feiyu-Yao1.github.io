@@ -32,7 +32,7 @@
 
 ## Research Project
 
-Research Interest: Artificial Intelligent, Intelligent Robots, Multi-modal tasks, Navigation Planning. 
+Research Interest: Artificial Intelligent, Sensor tasks, Multi-modal tasks, Navigation Planning, Intelligent Robots. 
 
 1: Few-shot Domain Adaptation for IMU Denoising: Present a few-shot domain adaptation strategy and a few-shot domain adaption framework with embedding module, restructor module and generator module. They can effectively achieve accurate angular velocity among multiple IMUs and robots without specially training the parameters for each of them. Verified on open dataset, car robot and quadruped robot. The generalization performance is better than the state of art methods.
 
