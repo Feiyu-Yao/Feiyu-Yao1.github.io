@@ -92,7 +92,7 @@ Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolu
   </tr>
 </table>
 
-
+<a href="https://www.youtube.com/watch?v=Rx6Fo3JLdqw"><img src="/cheetah.jpg" width=300pt> </a>
 
 
 
