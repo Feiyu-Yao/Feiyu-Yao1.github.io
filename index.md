@@ -87,7 +87,7 @@ Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolu
       <p><b>With C++ and OpenGL, Using simple rules and physical simulation, we evolve a robot which can run with the gait like the fastest land animal cheetah. </b></p>
     </td>
     <td width="30%">
-      <img src="/reobot.jpeg" width="50%"> <img src="/cheetah.jpg" width="50%">
+      <img src="/reobot.jpeg" width="50%"> <a href="https://www.youtube.com/watch?v=Rx6Fo3JLdqw"><img src="/cheetah.jpg" width="50%"> </a>
     </td>
   </tr>
 </table>
@@ -97,7 +97,7 @@ Courses in Columbia University: Machince Learning, Reinforcement Learning, Evolu
 
 
 
-[![Soft Robot](https://res.cloudinary.com/marcomontalbano/image/upload/v1646672990/video_to_markdown/images/youtube--Rx6Fo3JLdqw-c05b58ac6eb4c4700831b2b3070cd403.jpg) width="200" height="200"](https://www.youtube.com/watch?v=Rx6Fo3JLdqw "Soft Robot")
+[![Soft Robot](https://res.cloudinary.com/marcomontalbano/image/upload/v1646672990/video_to_markdown/images/youtube--Rx6Fo3JLdqw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Rx6Fo3JLdqw "Soft Robot")
 
 
 
